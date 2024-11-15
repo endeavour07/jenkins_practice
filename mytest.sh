@@ -5,5 +5,8 @@ date
 
 cal
 
+
+pwd
+
 echo "Ended
 "
